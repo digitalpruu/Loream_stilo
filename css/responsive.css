@@ -232,4 +232,8 @@ font-size: 16px;
  }
  .best_img {margin-top: 30px;}
  .titlepage h2 {font-size: 32px;}
+    .text-img{
+        width: 300px;
+        margin: 0 auto;
+    }
 }
